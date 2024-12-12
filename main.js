@@ -53,7 +53,7 @@ function onWindowResize() {
 
 // Start the process by loading a texture from a specified URL
 addTextureImg(
-  "public/img/full-spherical-hdri-panorama-360-degrees-empty-exhibition-space-backdrop-exhibitions-events-tile-floor-marketing-mock-up-3d-render-illustration_161844-361.avif"
+  "/img/full-spherical-hdri-panorama-360-degrees-empty-exhibition-space-backdrop-exhibitions-events-tile-floor-marketing-mock-up-3d-render-illustration_161844-361.avif"
 );
 function animate() {
   requestAnimationFrame(animate);
